@@ -39,7 +39,7 @@
             <instance>slot2</instance>
         </interface>
     </hal>
-     <hal format="aidl">
+    <hal format="aidl">
         <name>android.hardware.radio.sap</name>
         <interface>
             <name>ISap</name>

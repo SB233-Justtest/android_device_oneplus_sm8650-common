@@ -566,7 +566,7 @@ vendor/etc/init/vendor.qti.rmt_storage.rc
 # Secure element
 odm/bin/hw/android.hardware.secure_element-service.qti
 odm/etc/init/android.hardware.secure_element-service.qti.rc
-odm/etc/vintf/manifest/secure_element_omapi_service.xml:vendor/etc/vintf/manifest/secure_element-service-omapi.xml
+odm/etc/vintf/manifest/secure_element_omapi_service.xml
 vendor/etc/vintf/manifest/android.hardware.secure_element.xml
 vendor/lib64/hw/libEseUtils.so
 vendor/lib64/libGPQeSE.so
